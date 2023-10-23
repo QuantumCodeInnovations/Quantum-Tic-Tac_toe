@@ -18,5 +18,5 @@ function simulateLoading() {
 }
 
 function openMainPage() {
-    window.location.href = "MainPage.html";
+    window.location.href = "../HtML/MainPage.html";
 }
